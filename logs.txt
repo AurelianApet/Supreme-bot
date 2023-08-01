@@ -1,0 +1,213 @@
+[2018-09-19 00:08:37.035]Found the Product
+[2018-09-19 00:08:37.769]Adding to Cart
+[2018-09-19 00:08:39.540]Checking Out
+[2018-09-19 00:08:39.959]Please Check Credit Card Information
+[2018-09-19 00:08:45.229]Found the Product
+[2018-09-19 00:08:45.873]Adding to Cart
+[2018-09-19 00:08:47.382]Checking Out
+[2018-09-19 00:08:47.829]Please Check Credit Card Information
+[2018-09-19 00:08:51.718]Found the Product
+[2018-09-19 00:08:52.368]Adding to Cart
+[2018-09-19 00:08:53.932]Checking Out
+[2018-09-19 00:08:54.378]Please Check Credit Card Information
+[2018-09-19 00:08:58.276]Found the Product
+[2018-09-19 00:08:58.923]Adding to Cart
+[2018-09-19 00:09:00.557]Checking Out
+[2018-09-19 00:09:01.146]Please Check Credit Card Information
+[2018-09-19 00:09:05.309]Found the Product
+[2018-09-19 00:09:05.945]Adding to Cart
+[2018-09-19 00:09:07.473]Checking Out
+[2018-09-19 00:09:07.953]Please Check Credit Card Information
+[2018-09-19 00:09:12.065]Found the Product
+[2018-09-19 00:09:12.989]Adding to Cart
+[2018-09-19 00:09:14.509]Checking Out
+[2018-09-19 00:09:14.974]Please Check Credit Card Information
+[2018-09-19 00:09:18.921]Found the Product
+[2018-09-19 00:09:19.568]Adding to Cart
+[2018-09-19 00:14:05.872]Found the Product
+[2018-09-19 00:14:06.566]Adding to Cart
+[2018-09-19 00:14:08.070]Checking Out
+[2018-09-19 00:14:08.462]Please Check Credit Card Information
+[2018-09-19 00:14:12.360]Found the Product
+[2018-09-19 00:14:13.027]Adding to Cart
+[2018-09-19 00:14:14.506]Checking Out
+[2018-09-19 00:14:14.964]Please Check Credit Card Information
+[2018-09-19 00:14:18.871]Found the Product
+[2018-09-19 00:14:19.545]Adding to Cart
+[2018-09-19 00:14:21.069]Checking Out
+[2018-09-19 00:14:21.555]Please Check Credit Card Information
+[2018-09-19 00:14:25.452]Found the Product
+[2018-09-19 00:14:26.099]Adding to Cart
+[2018-09-19 00:14:27.677]Checking Out
+[2018-09-19 00:14:28.118]Please Check Credit Card Information
+[2018-09-19 00:14:31.981]Found the Product
+[2018-09-19 00:14:32.636]Adding to Cart
+[2018-09-19 00:14:34.163]Checking Out
+[2018-09-19 00:14:34.603]Please Check Credit Card Information
+[2018-09-19 00:14:38.683]Found the Product
+[2018-09-19 00:14:39.346]Adding to Cart
+[2018-09-19 00:14:40.918]Checking Out
+[2018-09-19 00:14:41.401]Please Check Credit Card Information
+[2018-09-19 00:14:45.284]Found the Product
+[2018-09-19 00:14:45.934]Adding to Cart
+[2018-09-19 00:14:47.402]Checking Out
+[2018-09-19 00:14:47.824]Please Check Credit Card Information
+[2018-09-19 00:14:51.740]Found the Product
+[2018-09-19 00:14:52.389]Adding to Cart
+[2018-09-19 00:14:54.664]Checking Out
+[2018-09-19 00:14:55.151]Please Check Credit Card Information
+[2018-09-19 00:14:59.312]Found the Product
+[2018-09-19 00:14:59.966]Adding to Cart
+[2018-09-19 00:15:01.414]Checking Out
+[2018-09-19 00:15:01.919]Please Check Credit Card Information
+[2018-09-19 00:15:06.144]Found the Product
+[2018-09-19 00:15:06.937]Adding to Cart
+[2018-09-19 00:15:08.493]Checking Out
+[2018-09-19 00:15:08.944]Please Check Credit Card Information
+[2018-09-19 00:15:13.058]Found the Product
+[2018-09-19 00:15:14.727]Adding to Cart
+[2018-09-19 00:15:16.237]Checking Out
+[2018-09-19 00:15:16.734]Please Check Credit Card Information
+[2018-09-19 00:15:20.626]Found the Product
+[2018-09-19 00:15:21.283]Adding to Cart
+[2018-09-19 00:21:59.667]Found the Product
+[2018-09-19 00:22:00.393]Adding to Cart
+[2018-09-19 00:22:02.045]Checking Out
+[2018-09-19 00:22:02.446]Please Check Credit Card Information
+[2018-09-19 00:22:06.411]Found the Product
+[2018-09-19 00:22:07.029]Adding to Cart
+[2018-09-19 00:22:08.760]Checking Out
+[2018-09-19 00:22:09.280]Please Check Credit Card Information
+[2018-09-19 00:22:13.154]Found the Product
+[2018-09-19 00:22:13.801]Adding to Cart
+[2018-09-19 00:22:15.357]Checking Out
+[2018-09-19 00:22:15.753]Please Check Credit Card Information
+[2018-09-19 00:22:19.614]Found the Product
+[2018-09-19 00:22:20.265]Adding to Cart
+[2018-09-19 00:22:21.905]Checking Out
+[2018-09-19 00:22:22.334]Please Check Credit Card Information
+[2018-09-19 00:22:26.348]Found the Product
+[2018-09-19 00:22:27.018]Adding to Cart
+[2018-09-19 00:22:28.536]Checking Out
+[2018-09-19 00:22:28.939]Please Check Credit Card Information
+[2018-09-19 00:22:34.062]Found the Product
+[2018-09-19 00:22:34.709]Adding to Cart
+[2018-09-19 00:22:36.354]Checking Out
+[2018-09-19 00:22:36.842]Please Check Credit Card Information
+[2018-09-19 00:22:40.724]Found the Product
+[2018-09-19 00:22:41.365]Adding to Cart
+[2018-09-19 00:22:42.930]Checking Out
+[2018-09-19 00:22:43.341]Please Check Credit Card Information
+[2018-09-19 00:22:47.223]Found the Product
+[2018-09-19 00:22:47.882]Adding to Cart
+[2018-09-19 00:22:49.467]Checking Out
+[2018-09-19 00:22:49.874]Please Check Credit Card Information
+[2018-09-19 00:22:53.840]Found the Product
+[2018-09-19 00:22:54.488]Adding to Cart
+[2018-09-19 00:22:56.120]Checking Out
+[2018-09-19 00:22:56.547]Please Check Credit Card Information
+[2018-09-19 00:23:00.701]Found the Product
+[2018-09-19 00:23:01.654]Adding to Cart
+[2018-09-19 00:23:03.358]Checking Out
+[2018-09-19 00:23:03.855]Please Check Credit Card Information
+[2018-09-19 00:23:07.954]Found the Product
+[2018-09-19 00:23:08.607]Adding to Cart
+[2018-09-19 00:23:10.136]Checking Out
+[2018-09-19 00:23:10.609]Please Check Credit Card Information
+[2018-09-19 00:23:14.493]Found the Product
+[2018-09-19 00:23:15.160]Adding to Cart
+[2018-09-19 00:23:16.600]Checking Out
+[2018-09-19 00:23:17.102]Please Check Credit Card Information
+[2018-09-19 00:23:20.986]Found the Product
+[2018-09-19 00:23:21.641]Adding to Cart
+[2018-09-19 00:23:23.253]Checking Out
+[2018-09-19 00:23:23.693]Please Check Credit Card Information
+[2018-09-19 00:23:27.555]Found the Product
+[2018-09-19 00:23:28.180]Adding to Cart
+[2018-09-19 00:23:29.694]Checking Out
+[2018-09-19 00:23:30.130]Please Check Credit Card Information
+[2018-09-19 00:23:34.008]Found the Product
+[2018-09-19 00:23:34.617]Adding to Cart
+[2018-09-19 00:23:36.088]Checking Out
+[2018-09-19 00:23:36.530]Please Check Credit Card Information
+[2018-09-19 00:23:40.626]Found the Product
+[2018-09-19 00:23:41.277]Adding to Cart
+[2018-09-19 00:23:42.773]Checking Out
+[2018-09-19 00:23:43.248]Please Check Credit Card Information
+[2018-09-19 00:23:47.114]Found the Product
+[2018-09-19 00:23:47.788]Adding to Cart
+[2018-09-19 00:23:49.449]Checking Out
+[2018-09-19 00:23:49.911]Please Check Credit Card Information
+[2018-09-19 00:23:53.813]Found the Product
+[2018-09-19 00:23:54.470]Adding to Cart
+[2018-09-19 00:23:56.068]Checking Out
+[2018-09-19 00:23:56.482]Please Check Credit Card Information
+[2018-09-19 00:24:00.586]Found the Product
+[2018-09-19 00:24:01.258]Adding to Cart
+[2018-09-19 00:24:02.747]Checking Out
+[2018-09-19 00:24:03.209]Please Check Credit Card Information
+[2018-09-19 00:24:07.376]Found the Product
+[2018-09-19 00:24:08.117]Adding to Cart
+[2018-09-19 00:24:10.728]Checking Out
+[2018-09-19 00:24:11.161]Please Check Credit Card Information
+[2018-09-19 00:24:15.247]Found the Product
+[2018-09-19 00:24:15.898]Adding to Cart
+[2018-09-19 00:24:17.483]Checking Out
+[2018-09-19 00:24:17.896]Please Check Credit Card Information
+[2018-09-19 00:24:21.801]Found the Product
+[2018-09-19 00:24:22.438]Adding to Cart
+[2018-09-19 00:24:23.990]Checking Out
+[2018-09-19 00:24:24.399]Please Check Credit Card Information
+[2018-09-19 00:24:28.311]Found the Product
+[2018-09-19 00:24:28.987]Adding to Cart
+[2018-09-19 00:24:30.402]Checking Out
+[2018-09-19 00:24:30.900]Please Check Credit Card Information
+[2018-09-19 00:24:34.747]Found the Product
+[2018-09-19 00:24:35.383]Adding to Cart
+[2018-09-19 00:24:36.896]Checking Out
+[2018-09-19 00:24:37.369]Please Check Credit Card Information
+[2018-09-19 00:24:41.275]Found the Product
+[2018-09-19 00:24:41.909]Adding to Cart
+[2018-09-19 00:24:43.322]Checking Out
+[2018-09-19 00:24:43.718]Please Check Credit Card Information
+[2018-09-19 00:24:47.831]Found the Product
+[2018-09-19 00:24:48.484]Adding to Cart
+[2018-09-19 00:24:50.149]Checking Out
+[2018-09-19 00:24:50.641]Please Check Credit Card Information
+[2018-09-19 00:24:54.500]Found the Product
+[2018-09-19 00:24:55.173]Adding to Cart
+[2018-09-19 00:24:56.569]Checking Out
+[2018-09-19 00:24:57.019]Please Check Credit Card Information
+[2018-09-19 00:25:01.109]Found the Product
+[2018-09-19 00:25:01.767]Adding to Cart
+[2018-09-19 00:25:03.414]Checking Out
+[2018-09-19 00:25:03.829]Please Check Credit Card Information
+[2018-09-19 00:25:07.706]Found the Product
+[2018-09-19 00:25:08.342]Adding to Cart
+[2018-09-19 00:25:09.958]Checking Out
+[2018-09-19 00:25:10.405]Please Check Credit Card Information
+[2018-09-19 00:25:14.361]Found the Product
+[2018-09-19 00:25:15.101]Adding to Cart
+[2018-09-19 00:25:16.572]Checking Out
+[2018-09-19 00:25:17.009]Please Check Credit Card Information
+[2018-09-19 00:25:21.118]Found the Product
+[2018-09-19 00:25:21.744]Adding to Cart
+[2018-09-19 00:25:23.550]Checking Out
+[2018-09-19 00:25:23.958]Please Check Credit Card Information
+[2018-09-19 00:25:27.871]Found the Product
+[2018-09-19 00:25:28.536]Adding to Cart
+[2018-09-19 00:25:29.992]Checking Out
+[2018-09-19 00:25:30.451]Please Check Credit Card Information
+[2018-09-19 00:25:34.342]Found the Product
+[2018-09-19 00:25:35.011]Adding to Cart
+[2018-09-19 00:25:36.598]Checking Out
+[2018-09-19 00:25:36.998]Please Check Credit Card Information
+[2018-09-19 00:25:40.904]Found the Product
+[2018-09-19 00:25:41.572]Adding to Cart
+[2018-09-19 00:25:43.133]Checking Out
+[2018-09-19 00:25:43.608]Please Check Credit Card Information
+[2018-09-19 00:25:47.493]Found the Product
+[2018-09-19 00:25:48.106]Adding to Cart
+[2018-09-19 00:25:49.692]Checking Out
+[2018-09-19 00:25:50.160]Please Check Credit Card Information
+[2018-09-19 00:25:54.262]Found the Product
